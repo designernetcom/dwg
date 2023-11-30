@@ -4697,3 +4697,10 @@ a:hover {
 img.mfp-img {
   padding: 30px 0px 30px !important;
 }
+.about-descs{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px;
+}
+.about-descs .h222{
+ text-align: center;
+}

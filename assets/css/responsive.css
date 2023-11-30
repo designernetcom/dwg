@@ -8,6 +8,9 @@
   .order1{
     order:2;
   }
+  .mgbm{
+    margin-top: 25px;
+  }
   .ptb {
     padding-bottom: 40px;
     padding-top: 40px;
@@ -24,6 +27,9 @@
   }
   .mtop {
     margin-top: 20px;
+}
+.mob-class .row{
+ text-align: center;
 }
 .sticky-icon {
   z-index: 11111;
