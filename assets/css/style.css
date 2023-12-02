@@ -4714,3 +4714,22 @@ img.mfp-img {
 .mtp{
   margin-top: 15px;
 }
+.about-descf h2{
+  /* text-align: center; */
+  font-size: 25px !important;
+}
+.about-descf{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px;
+  background-color: #fff;
+  height: 580px;
+}
+.about-desc11{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px;
+  background-color: #fff;
+}
+.about-desc11 h2{
+  text-align: center;
+  font-size: 25px !important;
+}
